@@ -1,0 +1,77 @@
+body {
+    background-image: url(../img/fundo.jpg);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.tudo {
+    width: 600px;
+    margin:0 auto;
+}
+
+.faça {
+    font-size: 20px;
+    width: 300px;
+    margin-left: 160px;
+}
+
+.logo {
+    margin-left: 170px;
+}
+
+.mt-3 {
+      padding: 20px;
+    font-size: 16px;
+    background-color: #fff;
+    border: 1px solid #d8dee2;
+    border-top: 0;
+    border-radius: 0 0 3px 3px;
+    display: block;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
+
+.mt-3 {
+    margin-top: 16px !important;
+}
+
+
+.login {
+	position: absolute;
+	bottom: 0;
+	right: 40px;
+    top: 10px;
+}
+
+.login ul {
+	font-size: 20px;
+}
+
+.login ul li {
+	display: inline;
+	margin-left: 2px;
+}
+
+.login a {
+	color: #003366;
+}
+
+.menu-opcoes {
+	position: absolute;
+	bottom: 0;
+	right: 40px;
+    top: 160px
+}
+
+.menu-opcoes ul {
+	font-size: 22px;
+}
+
+.menu-opcoes ul li {
+	display: inline;
+	margin-left: 20px;
+}
+
+.menu-opcoes a {
+	color: #003366;
+}

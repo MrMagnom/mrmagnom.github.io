@@ -1,0 +1,13 @@
+.fotos{
+    display: block;
+    margin-left: -150px;
+    margin-right: -150px;
+}
+
+.a{
+    width: 608px; 
+    height: 220px; 
+    top: 400px; 
+    left: 4px; 
+    opacity: 1;
+}

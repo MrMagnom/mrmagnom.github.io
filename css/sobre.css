@@ -1,0 +1,177 @@
+body {
+    background-image: url(../img/fundo.jpg);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.tudo {
+    width: 940px;
+    margin:0 auto;
+}
+
+.tudo2{
+    width: 770px;
+    margin: 0 auto;
+}
+
+.rotas{
+    font-size: 18px;
+}
+
+.container {
+    margin: 0 auto;
+	width: 940px;
+}
+
+span{
+    color: red;
+    background-color: black;
+}
+
+.login {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+    top: 10px;
+}
+
+.login ul {
+	font-size: 20px;
+}
+
+.login ul li {
+	display: inline;
+	margin-left: 2px;
+}
+
+.login a {
+	color: #003366;
+}
+
+header {
+	position: relative;
+}
+
+.menu-opcoes {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.menu-opcoes ul {
+	font-size: 22px;
+}
+
+.menu-opcoes ul li {
+	display: inline;
+	margin-left: 20px;
+}
+
+.menu-opcoes a {
+	color: #003366;
+}
+
+
+.busca, 
+.menu-departamentos {
+	background-color: #dcdcdc;
+	font-weight: bold;
+	text-transform: uppercase;  
+	
+	width: 230px;
+}
+
+.busca h2,
+.busca form,
+.menu-departamentos h2 {
+	margin: 10px;
+}
+
+.menu-departamentos li {
+	background-color: white;
+	margin-bottom: 1px;
+	padding: 5px 10px;
+}
+
+section {
+    position: relative;
+}
+
+.sobre {
+    margin: 0px;
+    width: 940px;
+}
+
+footer {
+	background-image: url(../img/fundo-rodape.png);
+	clear: both;
+	padding: 20px 0;
+}
+
+footer .container {
+	position: relative;
+}
+
+.social {
+	position: absolute;
+	top: 12px;
+	right: 0;
+}
+
+.social li {
+	display: inline-block;
+	margin-left: 25px;
+}
+
+.social li a {
+	height: 32px;
+	width: 32px;
+
+	display: block;
+	text-indent: -99999px;  
+}
+
+.social a[href*="facebook"] {
+	background-image: url(../img/facebook.png);
+}
+
+.social a[href*="twitter"] {
+	background-image: url(../img/twitter.png);
+}
+
+.social a[href*="plus"] {
+	background-image: url(../img/googleplus.png);
+}
+
+
+.menu-departamentos a {
+	color: #333333;
+	text-decoration: none;
+}
+
+.busca input {
+    background-image: url(img/fundo.png);
+	vertical-align: middle;
+}
+
+.busca input[type=search] {
+	width: 170px;
+}
+
+.busca, 
+.menu-departamentos {
+	float: left;
+}
+
+.menu-departamentos {
+	margin-top: 10px;
+	padding-bottom: 10px;
+	clear: left;
+}
+
+.destaque {
+	margin-top: 10px;
+}
+
+.destaque img {
+	margin-left: 10px;
+}
